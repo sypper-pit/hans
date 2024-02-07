@@ -12,7 +12,7 @@ https://sourceforge.net/projects/hanstunnel/files/source/
 use for compile:
 
 ```bash
-sudo apt install make gmake gcc g++ net-tools
+sudo apt install make gcc g++ net-tools
 ```
 ```
 cd hans-1.1
